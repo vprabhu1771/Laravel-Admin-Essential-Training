@@ -1,5 +1,6 @@
-config\admin.php
+`config\admin.php`
 
+```php
 /*
 |--------------------------------------------------------------------------
 | Show version at footer
@@ -10,3 +11,4 @@ config\admin.php
 |
 */
 'show_version' => true,
+```

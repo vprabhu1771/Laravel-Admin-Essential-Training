@@ -1,5 +1,6 @@
-config\admin.php
+`config\admin.php`
 
+```php
 /*
 |--------------------------------------------------------------------------
 | Application Skin
@@ -15,3 +16,4 @@ config\admin.php
 |
 */
 'skin' => env('ADMIN_SKIN', 'skin-yellow'),
+```

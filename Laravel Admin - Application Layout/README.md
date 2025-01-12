@@ -1,5 +1,6 @@
-config\admin.php
+`config\admin.php`
 
+```php
 /*
 |--------------------------------------------------------------------------
 | Application layout
@@ -13,3 +14,4 @@ config\admin.php
 |
 */
 'layout' => ['sidebar-mini', 'sidebar-collapse'],
+```

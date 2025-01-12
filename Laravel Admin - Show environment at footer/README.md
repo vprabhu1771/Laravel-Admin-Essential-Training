@@ -1,5 +1,6 @@
-config\admin.php
+`config\admin.php`
 
+```php
 /*
 |--------------------------------------------------------------------------
 | Show environment at footer
@@ -9,3 +10,4 @@ config\admin.php
 |
 */
 'show_environment' => true,
+```
